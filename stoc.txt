@@ -1,0 +1,9 @@
+Erdomed 22 3
+Nurofen 2 25
+Paracetamol 100 12.5
+Planta 70 700
+Pudra 1 15
+Sirop 8 30
+Vaccin 500 123.123
+Vitaminac 8 20
+Vitaminad 20 5

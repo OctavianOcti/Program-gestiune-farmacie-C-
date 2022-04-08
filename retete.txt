@@ -1,0 +1,6 @@
+Acnee Lotiune_tonica  10
+Alergie Spray  8
+Covid20 Medicament1  1
+Covid20 Medicament2  2
+Febra Nurofen  5
+Febra Paracetamol  2
